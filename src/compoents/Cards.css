@@ -1,0 +1,46 @@
+.card__button > .btn{
+    padding: 12px;
+    color: rgb(0, 0, 0);
+    background: transparent;
+    border: 2px solid black;
+    margin: 5px;
+    border-radius: 10px;
+}
+.card__button button:hover{
+    cursor: pointer;
+    background-color: #ff914d;
+}
+.fa-credit-card-alt, .fa-envelope, .fa-address-card{
+    margin-right: 10px;
+    color: beige;
+}
+.pars__container{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    padding: 40px;
+    font-size: 1.2rem;
+    border: 6px solid #ff914d;
+    border-top: 2px solid transparent;
+    border-radius: 15px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    box-shadow: 0 0 0 4px #fff;
+    margin: 2px 4%;
+}
+.pars__image img{
+    margin: 12px;
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 10%;
+}
+.pars__subcontainer{
+    padding: 15px;
+    line-height: 1.8rem;
+}
+.playBtn a{
+    padding: "12% 25%";
+    outline:"none";
+    border:"4px solid black";
+    font-size:"1.8rem";
+}
