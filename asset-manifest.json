@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/soundness.github.io/static/css/main.b6c61e56.css",
+    "main.js": "/soundness.github.io/static/js/main.236998ea.js",
+    "static/js/636.fcc5689d.chunk.js": "/soundness.github.io/static/js/636.fcc5689d.chunk.js",
+    "static/media/mental.jpg": "/soundness.github.io/static/media/mental.a00beaf0189901357d9c.jpg",
+    "static/media/doodle.jpg": "/soundness.github.io/static/media/doodle.1f44f7dce478c7df6c24.jpg",
+    "static/media/stamp.png": "/soundness.github.io/static/media/stamp.4522a05a79626a1fcb88.png",
+    "static/media/Mind2.png": "/soundness.github.io/static/media/Mind2.96fcd795175310ae92ef.png",
+    "static/media/member.png": "/soundness.github.io/static/media/member.15c956d6ae188cf8a169.png",
+    "static/media/intro.png": "/soundness.github.io/static/media/intro.5c253f1e53d2d6ea4061.png",
+    "static/media/logo2.png": "/soundness.github.io/static/media/logo2.9eb9f7d976df01fe5965.png",
+    "static/media/end.png": "/soundness.github.io/static/media/end.ae7b8e93188c84515634.png",
+    "index.html": "/soundness.github.io/index.html",
+    "main.b6c61e56.css.map": "/soundness.github.io/static/css/main.b6c61e56.css.map",
+    "main.236998ea.js.map": "/soundness.github.io/static/js/main.236998ea.js.map",
+    "636.fcc5689d.chunk.js.map": "/soundness.github.io/static/js/636.fcc5689d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6c61e56.css",
+    "static/js/main.236998ea.js"
+  ]
+}
