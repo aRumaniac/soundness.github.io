@@ -1,4 +1,4 @@
-# soundness.github.io deployed link -  https://arumaniac.github.io/soundness.github.io/
+soundness.github.io deployed link -  https://arumaniac.github.io/soundness.github.io/
 
 INTRODUCTION
 What:
